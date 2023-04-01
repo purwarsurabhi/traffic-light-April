@@ -1,0 +1,10 @@
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
+episode - 0, total waiting time - 0, static waiting time - 338798 
